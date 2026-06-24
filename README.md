@@ -1,4 +1,5 @@
 # ai-sales-pipeline-automation
+![Workflow](./Screenshot%20worflow.png)
 Automated B2B lead scoring pipeline — n8n + OpenAI GPT-4o-mini + HubSpot CRM | 250 leads processed automatically
 # 🤖 AI Sales Pipeline Automation
 
